@@ -1,0 +1,10 @@
+export const MAIN_COLOR = "#3f3fff";
+export const BTN_GREY = "#DFDEE4";
+export const SONG_PLAYER_BG = "#a8a8a8";
+export const BLACK = "#000000";
+export const GREY = "#939292";
+export const POINT_BLUE = "#7A71FE";
+export const LIGHT_GREY = "#f9f9f9";
+export const DARK_GREY = "#535151";
+export const LIGHT_BLACK = "#303030";
+export const BACK_LIGHT_GREY = "#f5f5f5";

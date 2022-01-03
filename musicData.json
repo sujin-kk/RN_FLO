@@ -1,0 +1,335 @@
+{
+    "albums": [
+        {
+            "id": 1,
+            "albumName": "IU 5th Album 'LILAC",
+            "singer": "아이유(IU)",
+            "albumImg": "../assets/img_album_exp2.png",
+            "publisher": "카카오엔터테이먼트",
+            "agency": "EDAM엔터테이먼트",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "albumName": "Butter (feat. Megan Thee Stallion)",
+            "singer": "방탄소년단",
+            "albumImg": "../assets/img_album_exp1.png",
+            "publisher": "YG PLUS",
+            "agency": "BIGHIT MUSIC",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "albumName": "MAP OF THE SOUL : PERSONA",
+            "singer": "방탄소년단",
+            "albumImg": "../assets/img_album_exp3.png",
+            "publisher": "YG PLUS",
+            "agency": "BIGHIT MUSIC",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "albumName": "너에게",
+            "singer": "오왼 (Owen)",
+            "albumImg": "../assets/img_album_exp4.png",
+            "publisher": "워너뮤직코리아",
+            "agency": "UNCUTPOINT",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "albumName": "Next Level",
+            "singer": "aespa",
+            "albumImg": "../assets/img_album_exp5.png",
+            "publisher": "Dreamus",
+            "agency": "SM ENTERTAINMENT",
+            "description": ""
+        },
+        {
+            "id": 6,
+            "albumName": "City",
+            "singer": "오왼(Owen)",
+            "albumImg": "../assets/img_album_exp6.png",
+            "publisher": "워너뮤직코리아",
+            "agency": "UNCUTPOINT",
+            "description": ""
+        },
+        {
+            "id": 7,
+            "albumName": "P.O.E.M",
+            "singer": "오왼(Owen)",
+            "albumImg": "../assets/img_album_exp6.png",
+            "publisher": "워너뮤직코리아",
+            "agency": "UNCUTPOINT",
+            "description": ""
+        },
+        {
+            "id": 8,
+            "albumName": "Problematic",
+            "singer": "오왼(Owen)",
+            "albumImg": "../assets/img_album_exp6.png",
+            "publisher": "워너뮤직코리아",
+            "agency": "UNCUTPOINT",
+            "description": ""
+        },
+        {
+            "id": 9,
+            "albumName": "HHH (Feat. pH-1)",
+            "singer": "Jhnovr",
+            "albumImg": "../assets/img_album_exp4.png",
+            "publisher": "카카오엔터테인먼트",
+            "agency": "WEDAPLUGG Records",
+            "description": ""
+        },
+        {
+            "id": 10,
+            "albumName": "V",
+            "singer": "박재범",
+            "albumImg": "../assets/img_album_exp5.png",
+            "publisher": "지니뮤직",
+            "agency": "AOMG(주)",
+            "description": ""
+        }
+        
+    ],
+    "latest": [
+        {
+            "id": 1,
+            "albumName": "IU 5th Album 'LILAC",
+            "singer": "아이유(IU)",
+            "albumImg": "../assets/img_album_exp2.png",
+            "publisher": "카카오엔터테이먼트",
+            "agency": "EDAM엔터테이먼트",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "albumName": "Butter (feat. Megan Thee Stallion)",
+            "singer": "방탄소년단",
+            "albumImg": "../assets/img_album_exp1.png",
+            "publisher": "YG PLUS",
+            "agency": "BIGHIT MUSIC",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "albumName": "MAP OF THE SOUL : PERSONA",
+            "singer": "방탄소년단",
+            "albumImg": "../assets/img_album_exp3.png",
+            "publisher": "YG PLUS",
+            "agency": "BIGHIT MUSIC",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "albumName": "너에게",
+            "singer": "오왼 (Owen)",
+            "albumImg": "../assets/img_album_exp4.png",
+            "publisher": "워너뮤직코리아",
+            "agency": "UNCUTPOINT",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "albumName": "Next Level",
+            "singer": "aespa",
+            "albumImg": "../assets/img_album_exp5.png",
+            "publisher": "Dreamus",
+            "agency": "SM ENTERTAINMENT",
+            "description": ""
+        }
+    ],
+    "today": [
+        {
+            "id": 6,
+            "albumName": "City",
+            "singer": "오왼(Owen)",
+            "albumImg": "../assets/img_album_exp6.png",
+            "publisher": "워너뮤직코리아",
+            "agency": "UNCUTPOINT",
+            "description": ""
+        },
+        {
+            "id": 7,
+            "albumName": "P.O.E.M",
+            "singer": "오왼(Owen)",
+            "albumImg": "../assets/img_album_exp6.png",
+            "publisher": "워너뮤직코리아",
+            "agency": "UNCUTPOINT",
+            "description": ""
+        },
+        {
+            "id": 8,
+            "albumName": "Problematic",
+            "singer": "오왼(Owen)",
+            "albumImg": "../assets/img_album_exp6.png",
+            "publisher": "워너뮤직코리아",
+            "agency": "UNCUTPOINT",
+            "description": ""
+        },
+        {
+            "id": 9,
+            "albumName": "HHH (Feat. pH-1)",
+            "singer": "Jhnovr",
+            "albumImg": "../assets/img_album_exp4.png",
+            "publisher": "카카오엔터테인먼트",
+            "agency": "WEDAPLUGG Records",
+            "description": ""
+        },
+        {
+            "id": 10,
+            "albumName": "V",
+            "singer": "박재범",
+            "albumImg": "../assets/img_album_exp5.png",
+            "publisher": "지니뮤직",
+            "agency": "AOMG(주)",
+            "description": ""
+        }
+    ],
+    "songs": [
+        {
+            "id": 17,
+            "songName": "Dank",
+            "singer": "박재범",
+            "isTitle": true,
+            "albumIdx": 10,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 18,
+            "songName": "City",
+            "singer": "오왼(Owen)",
+            "isTitle": true,
+            "albumIdx": 6,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 15,
+            "songName": "고해",
+            "singer": "오왼(Owen)",
+            "isTitle": true,
+            "albumIdx": 4,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 16,
+            "songName": "Next Level",
+            "singer": "aespa",
+            "isTitle": true,
+            "albumIdx": 5,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 1,
+            "songName": "라일락",
+            "singer": "아이유(IU)",
+            "isTitle": true,
+            "albumIdx": 1,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 2,
+            "songName": "Flu",
+            "singer": "아이유(IU)",
+            "isTitle": false,
+            "albumIdx": 1,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 9,
+            "songName": "Butter (feat. Megan Thee Stallion)",
+            "singer": "방탄소년단",
+            "isTitle": true,
+            "albumIdx": 2,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 10,
+            "songName": "작은 것들을 위한 시 (Boy With Luv)",
+            "singer": "방탄소년단",
+            "isTitle": true,
+            "albumIdx": 3,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 3,
+            "songName": "Coin",
+            "singer": "아이유(IU)",
+            "isTitle": true,
+            "albumIdx": 1,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 4,
+            "songName": "봄 안녕 봄",
+            "singer": "아이유(IU)",
+            "isTitle": false,
+            "albumIdx": 1,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 14,
+            "songName": "위해",
+            "singer": "오왼(Owen)",
+            "isTitle": false,
+            "albumIdx": 4,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 5,
+            "songName": "Celebrity",
+            "singer": "아이유(IU)",
+            "isTitle": false,
+            "albumIdx": 1,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 6,
+            "songName": "돌림노래 (Feat. DEAN)",
+            "singer": "아이유(IU)",
+            "isTitle": false,
+            "albumIdx": 1,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 12,
+            "songName": "Make It Right",
+            "singer": "방탄소년단",
+            "isTitle": false,
+            "albumIdx": 3,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 7,
+            "songName": "아이와 나의 바다",
+            "singer": "아이유(IU)",
+            "isTitle": false,
+            "albumIdx": 1,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 8,
+            "songName": "에필로그",
+            "singer": "아이유(IU)",
+            "isTitle": false,
+            "albumIdx": 1,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 11,
+            "songName": "소우주",
+            "singer": "방탄소년단",
+            "isTitle": false,
+            "albumIdx": 3,
+            "songMp3": "music_lilac.mp3"
+        },
+        {
+            "id": 13,
+            "songName": "HOME",
+            "singer": "방탄소년단",
+            "isTitle": false,
+            "albumIdx": 3,
+            "songMp3": "music_lilac.mp3"
+        }
+    ]
+}
